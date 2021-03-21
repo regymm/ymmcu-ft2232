@@ -2,7 +2,7 @@
 
 #### Function
 
-Can be used as Xilinx JTAG download & USB-to-UART bridge simultaneously. 
+Can be used as Xilinx JTAG download & USB-to-UART bridge simultaneously [following this](https://gist.github.com/rikka0w0/24b58b54473227502fa0334bbe75c3c1). 
 
 Partly pin-to-pin compatible with the CJMCU FT232HL(the purple PCB one). 
 
