@@ -1008,7 +1008,7 @@ F 6 "0805" H 4799 2120 50  0001 L BNN "Package"
 F 7 "LC" H 4799 2020 50  0001 L BNN "Supplier"
 F 8 "C53175" H 4799 1920 50  0001 L BNN "SuppliersPartNumber"
 F 9 "" H 4799 1820 50  0001 L BNN "Notepad"
-F 10 "3.3nF+" H 5450 2650 50  0000 R CNN "Comment"
+F 10 "3.3uF+" H 5450 2650 50  0000 R CNN "Comment"
 	1    4800 2600
 	0    -1   -1   0   
 $EndComp
