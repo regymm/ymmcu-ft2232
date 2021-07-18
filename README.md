@@ -2,13 +2,13 @@
 
 #### Function
 
-Can be used as Xilinx JTAG download & USB-to-UART bridge simultaneously. 
+Can be used as Xilinx JTAG downloader & USB-to-UART bridge simultaneously following [this](https://gist.github.com/rikka0w0/24b58b54473227502fa0334bbe75c3c1). 
 
 Partly pin-to-pin compatible with the CJMCU FT232HL(the purple PCB one). 
 
 Main chips: FT2232HL(QFP64), ASM1117(3.3V, SOT89), 93LC56(SOP8). 
 
-Micro-USB + Type-C(untested) connection. 
+Micro-USB + Type-C(tested later so not shown on pic) connection. 
 
 Made with Kicad. 
 
